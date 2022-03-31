@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "animate.css": "^4.1.1",
-    "hover.css": "^2.3.2"
+    "animate.css": "^4.1.1"
   }
 }
